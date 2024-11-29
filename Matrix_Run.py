@@ -1,3 +1,8 @@
+#Name: Irhan Iftikar
+#Date: November/December 2024
+#Description: Program that executes Matrix.py 
+
+#Imports class Matrix from program Matrix.py
 from Matrix import Matrix
 if __name__ == "__main__":
     print("Dimensions for Matrix 1: ")
